@@ -36,6 +36,12 @@ function draw() {
   ellipse(-150, -240, 15, 300);
   ellipse(-170, -260, 15, 300);
   ellipse(-190, -280, 15, 300);
+
+  ellipse(385, -120, 15, 200);
+  ellipse(395, -120, 15, 200);
+  ellipse(405, -130, 15, 180);
+  ellipse(415, -150, 15, 140);
+  ellipse(425, -170, 15, 100);
   
   rotate (radians(-25));
   ellipse(-80, -230, 20, 350);
@@ -57,6 +63,17 @@ function draw() {
   ellipse(-380, -80, 20, 350);
   ellipse(0, 0, 20, 200);
   ellipse(50, 100, 20, 200);
+  ellipse(70, 120, 20, 200);
+  ellipse(90, 140, 20, 200);
+  ellipse(110, 160, 20, 200);
+  ellipse(220, 60, 15, 30);
+  ellipse(235, 70, 15, 60);
+  ellipse(250, 80, 15, 120);
+  ellipse(265, 100, 15, 140);
+  ellipse(280, 110, 15, 150);
+  ellipse(295, 130, 15, 200);
+  ellipse(310, 140, 15, 220);
+  ellipse(325, 100, 15, 140);
 
   //Dork spots but not the big one
   ellipse(200, -100, 15, 200);
@@ -69,6 +86,12 @@ function draw() {
   ellipse(230, -200, 55, 200);
   ellipse(240, -240, 15, 200);
   ellipse(260, -260, 15, 200);
+  
+  ellipse(340, -180, 15, 200);
+  ellipse(355, -100, 15, 200);
+  ellipse(370, -100, 15, 200);
+  ellipse(385, -120, 15, 200);
+
 
   //red speed lines
   rotate (radians(25));
